@@ -1,0 +1,6 @@
+substrate,base,solvent,temperature_C,time_h,yield_percent
+aryl_bromide_A,K2CO3,DMF,100,12,78
+aryl_bromide_B,NaOtBu,THF,80,8,65
+aryl_bromide_C,K3PO4,DMF,110,16,92
+aryl_bromide_A,NaOtBu,THF,75,10,55
+aryl_bromide_D,K2CO3,DMAc,95,14,70
