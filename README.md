@@ -11,7 +11,7 @@ The focus is on building a **fully reproducible ML pipeline** combining:
 
 ---
 
-## 🚀 What this project does
+## What this project does
 
 ### 1. **Loads the Dreher & Doyle Buchwald–Hartwig dataset**  
 The raw Excel data contains “Ligand / Additive / Base / Aryl halide / Output (%)”.
