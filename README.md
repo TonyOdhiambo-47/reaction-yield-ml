@@ -11,30 +11,6 @@ The focus is on building a **fully reproducible ML pipeline** combining:
 
 ---
 
-## 📁 Repository structure
-
-reaction-yield-ml/
-│
-├── data/
-│ ├── Dreher_and_Doyle_input_data.xlsx ← real BH dataset
-│ └── reactions_small.csv ← tiny toy dataset (optional)
-│
-├── notebooks/
-│ └── 01_eda_and_baseline.ipynb ← main notebook
-│
-├── rxn_yields/ ← cloned external dataset repo
-│ └── rxn_yields/data.py ← generate_buchwald_hartwig_rxns()
-│
-├── src/ ← (optional) custom utilities
-│
-├── requirements.txt
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## 🚀 What this project does
 
 ### 1. **Loads the Dreher & Doyle Buchwald–Hartwig dataset**  
